@@ -1,2 +1,2 @@
 # proxymock
-Developer tool to create mock rest services
+Developer tool to create mocked rest services
